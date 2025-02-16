@@ -1,4 +1,5 @@
 📢 Aprenda Redes Neurais de Forma Simples!
+
 Você já ouviu falar de redes neurais mas achou complicado entender? Vou te mostrar de um jeito fácil e ainda compartilhar um código funcional! 🚀
 
 🤔 O que é uma Rede Neural?
